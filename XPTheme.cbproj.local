@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.927,=C:\Users\Lexa\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,C:\Users\Lexa\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\C++\XPTheme\XPTheme.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,C:\Users\Lexa\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\C++\XPTheme\main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,=C:\Users\Lexa\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,C:\Users\Lexa\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\C++\XPTheme\main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,C:\Users\Lexa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\C++\XPTheme\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.453,C:\Users\Lexa\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\C++\XPTheme\module.h</Transaction>
+    <Transaction>2021.03.14 13:11:44.692,=D:\C++\XPTheme\Unit1.cpp</Transaction>
+    <Transaction>2021.03.14 13:11:54.552,D:\C++\XPTheme\MainFrame.h=D:\C++\XPTheme\Unit1.h</Transaction>
+    <Transaction>2021.03.14 13:11:54.552,D:\C++\XPTheme\MainFrame.cpp=D:\C++\XPTheme\Unit1.cpp</Transaction>
+    <Transaction>2021.03.14 13:11:54.552,D:\C++\XPTheme\MainFrame.dfm=D:\C++\XPTheme\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
