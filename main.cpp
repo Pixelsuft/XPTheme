@@ -83,6 +83,10 @@ void __fastcall TMainForm::FormResize(TObject *Sender)
 		prog_icon->Top = 4;
 		caption_label->Top = 3;
 		caption_label->Left = prog_icon->Left + prog_icon->Width + 6;
+		BaseFrame1->Left = 0;
+		BaseFrame1->Top = center_top2->Height;
+	BaseFrame1->Width = MainForm->ClientWidth;
+	BaseFrame1->Height = MainForm->ClientHeight - center_top2->Height;
 	}
 	else
 	{
@@ -122,9 +126,9 @@ void __fastcall TMainForm::FormResize(TObject *Sender)
 		caption_label->Left = prog_icon->Left + prog_icon->Width + 6;
 		BaseFrame1->Left = left_center->Width;
 		BaseFrame1->Top = center_top2->Height;
-	}
 	BaseFrame1->Width = MainForm->ClientWidth - left_center->Width - right_center->Width;
 	BaseFrame1->Height = MainForm->ClientHeight - center_top2->Height - center_down->Height;
+	}
 }
 //---------------------------------------------------------------------------
 void __fastcall TMainForm::center_top2MouseDown(TObject *Sender, TMouseButton Button,
@@ -625,4 +629,5 @@ void __fastcall TMainForm::double_click_timerTimer(TObject *Sender)
     is_double_click = false;
 }
 //---------------------------------------------------------------------------
+
 
